@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32388'
     url: http://www.gutenberg.org/2009/agents/32388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27028#Multilingualism-on-the-Web
 gutenberg_issued: '2008-10-26'
 gutenberg_type: Text
 identifiers:
